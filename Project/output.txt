@@ -1,0 +1,69 @@
+#include is a Variable
+ < is a Lesser Than  Opetator
+stdio is a Variable
+.h is a Variable
+> is a Greater Than Opetator
+newline
+int is a integer
+ main() is a Main Function
+ { is a Single Bracket Open
+newline
+    int is a integer
+ num is a Variable
+; is end of a statement
+newline
+    printf is a Print Function
+("Enter is a Variable
+ an is a Variable
+ integer is a Variable
+: "); is end of a statement
+newline
+    scanf is a scanf Function
+("%d is a Integer Identifier
+", is end of a statement
+ &num is an Input Specifier
+); is end of a statement
+newline
+newline
+    / is a Division Opetator
+/ is a Division Opetator
+ true is a Variable
+ if is a Conditional Statement
+ num is a Variable
+ is is a Variable
+ perfectly is a Variable
+ divisible is a Variable
+ by is a Variable
+ 2 is a Positive Digit
+newline
+    if is a Conditional Statement
+(num is a Variable
+ % is a Modulation Opetator
+ 2 is a Positive Digit
+ == is a Equal Opetator
+ 0 is a Positive Digit
+)newline
+        printf is a Print Function
+("%d is a Integer Identifier
+ is is a Variable
+ even is a Variable
+.", is end of a statement
+ num is a Variable
+); is end of a statement
+newline
+    else is a Conditional Statement
+newline
+        printf is a Print Function
+("%d is a Integer Identifier
+ is is a Variable
+ odd is a Variable
+.", is end of a statement
+ num is a Variable
+); is end of a statement
+newline
+    newline
+    return is Return a Value
+ 0 is a Positive Digit
+; is end of a statement
+newline
+} is a Single Bracket Close
